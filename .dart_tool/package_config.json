@@ -1,0 +1,15 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "dart_project",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    }
+  ],
+  "generated": "2024-09-12T14:02:10.969988Z",
+  "generator": "pub",
+  "generatorVersion": "3.4.4",
+  "pubCache": "file:///home/maverick/.pub-cache"
+}
